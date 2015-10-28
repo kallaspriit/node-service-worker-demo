@@ -1,0 +1,21 @@
+{
+  "name": "service-worker",
+  "version": "1.0.0",
+  "description": "Service worker demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "service",
+    "worker",
+    "demo"
+  ],
+  "author": "Priit Kallas <kallaspriit@gmail.com> (http://stagnationlab.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "marked": "^0.3.5"
+  }
+}
