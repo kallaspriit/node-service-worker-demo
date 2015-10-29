@@ -57,6 +57,9 @@ service-worker.js:43 available caches ["cache-1.0.0"]
 below.
 - You can invalidate the cache by changing the version number in the service worker.
 - For testing installing service worker repeatedly, open the demo in a new incognito window, this clears all caches.
+- Manage and debug service workers in chrome
+  - chrome://inspect/#service-workers
+  - chrome://serviceworker-internals
 
 Extra info
 ==========
